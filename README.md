@@ -1,4 +1,5 @@
 # GitHub Profile Achievements 🏆
+Author zahid qadri
 
 A collection listing all Achievements available on the GitHub profile.
 
